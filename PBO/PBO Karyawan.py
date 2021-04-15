@@ -20,7 +20,7 @@ class Karyawan:
         print("Total gaji:", self.gaji + self.upah)
 
 karyawan1 = Karyawan("Sarah", 1000000, 200000, "Pelayanan", "Sleman")
-karyawan2 = Karyawan("Budi", 2000000, 0, "Marketing", "Yogyakarta")
+karyawan2 = Karyawan("Budi", 2000000, 200000, "Marketing", "Yogyakarta")
 karyawan3 = Karyawan("Putri", 5000000, 400000, "TI", "Solo")
 karyawan4 = Karyawan("Putra", 8000000, 0, "Pengembangan Bisnis", "Yogyakarta")
 
